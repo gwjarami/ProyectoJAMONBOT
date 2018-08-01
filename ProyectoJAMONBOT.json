@@ -1,0 +1,19 @@
+{
+  "Estudiante":{
+		  "0941693228":{
+				   "nombres":"GEISON WILFRIDO",
+				   "apellidos":"JARAMILLO HOLGUIN",
+				    "contraseña":"jkis12345",
+				    "genero":"masculio",
+				    "correo":"jkis-105@webadictos.net"
+				},
+		  "0940835168":{
+				   "nombres":"RUTH ESTEFANIA",
+				   "apellidos":"PARRALES TUMBACO",
+				    "contraseña":"fanny12345",
+				    "genero":"femenino",
+				    "correo":"fanny-1994@webadictos.net"
+				}	
+	       }
+}
+  

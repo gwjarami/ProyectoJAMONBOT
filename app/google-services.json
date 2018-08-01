@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "214917758696",
+    "firebase_url": "https://proyectojamonbot.firebaseio.com",
+    "project_id": "proyectojamonbot",
+    "storage_bucket": "proyectojamonbot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214917758696:android:080d2c33322c201a",
+        "android_client_info": {
+          "package_name": "com.proyecto.app.proyectojamonbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214917758696-64ktuo228128lvnjp1q6ck130u7gcab5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyecto.app.proyectojamonbot",
+            "certificate_hash": "8e083086fbae0d316cf0e7701d35bf145cefcd14"
+          }
+        },
+        {
+          "client_id": "214917758696-ffi7rtp4d4nv8n7o14la0o12m47e167m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxvIQHQtnSnr5x3VfdcVAs1P0tpSvuwlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214917758696-ffi7rtp4d4nv8n7o14la0o12m47e167m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
